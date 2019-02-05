@@ -1,0 +1,1 @@
+# Ad effect code
